@@ -31,7 +31,3 @@
 * Gaming Servers
     * https://github.com/fan3750060/pmir2
     * https://github.com/fan3750060/wpcore
-
-## Benchmark
-
-* [Swoole performance tests and comparisons](https://github.com/kenashkov/swoole-performance-tests)

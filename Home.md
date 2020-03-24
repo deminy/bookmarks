@@ -10,6 +10,12 @@
 * [edgedesign/phpqa](https://github.com/EdgedesignCZ/phpqa): Analyze PHP code with one command.
 * [phpspy](https://github.com/adsr/phpspy): a low-overhead sampling profiler for PHP 7.
 
+## Benchmarks
+
+* [https://github.com/the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks): Which is the fastest web framework?
+* [TechEmpower Framework Benchmarks](https://www.techempower.com/benchmarks/)
+* [Swoole performance tests and comparisons](https://github.com/kenashkov/swoole-performance-tests): Performance tests of swoole against other PHP application server setups.
+
 # Docs and Manuals
 
 * [keep a changelog](https://keepachangelog.com): Don’t let your friends dump git logs into changelogs.
