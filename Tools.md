@@ -15,6 +15,11 @@
     * [JSON decode](http://json.parser.online.fr/)
 * Markdown
     * [Markdown editor](https://dillinger.io)
+* Network Dectection
+    * [Downdetector.com](https://downdetector.com): tells you when your favorite services are down or having problems.
+        * https://downdetector.com/status/github/
+        * https://downdetector.com/status/twitter/
+        * https://downdetector.com/status/gmail/
 * Testing
     * [eval.in](https://eval.in)
 * UI/CSS
