@@ -20,6 +20,10 @@
         * https://downdetector.com/status/github/
         * https://downdetector.com/status/twitter/
         * https://downdetector.com/status/gmail/
+* Regular Expressions
+    * [Rex V](http://www.rexv.org): an Ajax regular expression evaluator.
+    * [Regex Tester](https://www.regexpal.com): A regex tester from _Dan's Tools_.
+    * [RegExr](https://regexr.com): Learn, Build, & Test RegEx.
 * Testing
     * [eval.in](https://eval.in)
 * UI/CSS
