@@ -20,6 +20,7 @@
 
 * [leocavalcante/swoole-futures](https://github.com/leocavalcante/swoole-futures): Futures + Async/Await for PHP's Swoole asynchronous run-time.
 * [matyhtf/php-kcp](https://github.com/matyhtf/php-kcp)
+* [open-smf/connection-pool](https://github.com/open-smf/connection-pool): A common connection pool based on Swoole.
 
 # Applications and Services
 
