@@ -24,3 +24,9 @@
 # Conference Speaking
 
 * [HelpMeAbstract.com](http://helpmeabstract.com): Get feedback from veteran speakers before you submit.
+
+## Presentation Creation
+
+* [reveal.js](https://github.com/hakimel/reveal.js): A framework for easily creating beautiful presentations using HTML.
+    * [reveal-code-focus](https://github.com/bnjmnt4n/reveal-code-focus): A Reveal.js plugin that allows focusing on specific lines of code blocks.
+* [Visual Paradigm](https://online.visual-paradigm.com): makes diagramming simple, with a powerful diagram editor, and a central workspace to access and share your work.
