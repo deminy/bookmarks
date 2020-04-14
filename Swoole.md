@@ -5,6 +5,7 @@
 * [lizhichao/one](https://github.com/lizhichao/one): 一个极简高性能php框架，支持php-fpm或Swoole环境。
 * [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole): Swoole support for Mezzio (formerly Zend Expressive Swoole).
 * [phpmv/ubiquity](https://github.com/phpMv/ubiquity): Ubiquity framework.
+* [simps](https://github.com/simple-swoole/simps): A simple, lightweight and high-performance PHP coroutine framework. Ranked #2 at [https://github.com/the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks).
 
 ## Integration
 
