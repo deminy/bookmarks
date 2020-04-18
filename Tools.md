@@ -36,5 +36,6 @@
 
 # 中文工具
 
+* [在线试用 Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/): 可以使用 Google 输入工具在网络中的任何位置轻松地输入所选的语言。
 * [中文转拼音](https://www.ifreesite.com/pinyin/)
 * [接码号](https://jiemahao.com)
