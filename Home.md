@@ -29,4 +29,6 @@
 
 * [reveal.js](https://github.com/hakimel/reveal.js): A framework for easily creating beautiful presentations using HTML.
     * [reveal-code-focus](https://github.com/bnjmnt4n/reveal-code-focus): A Reveal.js plugin that allows focusing on specific lines of code blocks.
-* [Visual Paradigm](https://online.visual-paradigm.com): makes diagramming simple, with a powerful diagram editor, and a central workspace to access and share your work.
+* diagramming
+    * [diagrams.net](https://app.diagrams.net): diagrams.net is open source, online, desktop and container deployable diagramming software.
+    * [Visual Paradigm](https://online.visual-paradigm.com): makes diagramming simple, with a powerful diagram editor, and a central workspace to access and share your work.
