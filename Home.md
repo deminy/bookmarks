@@ -14,6 +14,8 @@
 
 * [https://github.com/the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks): Which is the fastest web framework?
 * [TechEmpower Framework Benchmarks](https://www.techempower.com/benchmarks/)
+    * [Results Dashboard](https://tfb-status.techempower.com)
+    * [GitHub repository](https://github.com/TechEmpower/FrameworkBenchmarks)
 * [Swoole performance tests and comparisons](https://github.com/kenashkov/swoole-performance-tests): Performance tests of swoole against other PHP application server setups.
 
 # Docs and Manuals
