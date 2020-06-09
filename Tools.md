@@ -8,6 +8,7 @@
 * Editor
     * [Edit Pad](https://www.editpad.org): online text editor & wordpad for notes.
 * HTTP
+    * [httpbin.org](http://httpbin.org): A simple HTTP Request & Response Service.
     * [Web Sniffer](http://web-sniffer.net)
     * [SOAP Client](http://www.soapclient.com/soapclient)
 * JSON
