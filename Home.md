@@ -1,22 +1,44 @@
-# PHP
+# Web Development
 
-## Projects
+* Collaboration
+    * [Code Share](https://codeshare.io)
+* Date/Time
+    * [Online Timestamp Converter](http://www.epochconverter.com/)
+    * [Milliseconds since Unix Epoch](http://currentmillis.com/)
+* Editor
+    * [Edit Pad](https://www.editpad.org): online text editor & wordpad for notes.
+* HTTP
+    * [httpbin.org](http://httpbin.org): A simple HTTP Request & Response Service.
+    * [Web Sniffer](http://web-sniffer.net)
+    * [SOAP Client](http://www.soapclient.com/soapclient)
+* JSON
+    * [JSON Formatter](http://www.jsoneditoronline.org/)
+    * [JSON decode](http://json.parser.online.fr/)
+    * [JSONPath Online Evaluator](https://jsonpath.com)
+* Markdown
+    * [Markdown editor](https://dillinger.io)
+* Regular Expressions
+    * [Rex V](http://www.rexv.org): an Ajax regular expression evaluator.
+    * [Regex Tester](https://www.regexpal.com): A regex tester from _Dan's Tools_.
+    * [RegExr](https://regexr.com): Learn, Build, & Test RegEx.
+* Testing
+    * [eval.in](https://eval.in)
+* UI/CSS
+    * [Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter/).
+* URL Parsing
+    * [URL Decoder/Encoder](http://meyerweb.com/eric/tools/dencoder/)
+    * [URL Parse](https://mrcoles.com/urlparse/)
+* XML
+    * [XML Schema Validator](http://xmltools.corefiling.com/schemaValidate/)
 
-* [hecodingmachine/safe](https://github.com/thecodingmachine/safe): A set of core PHP functions rewritten to throw exceptions instead of returning _false_ when an error is encountered.
-* [spiral/roadrunner](https://github.com/spiral/roadrunner): High-performance PHP application server, load-balancer and process manager written in Golang.
+# Network
 
-## Tools
-
-* [edgedesign/phpqa](https://github.com/EdgedesignCZ/phpqa): Analyze PHP code with one command.
-* [phpspy](https://github.com/adsr/phpspy): a low-overhead sampling profiler for PHP 7.
-
-## Benchmarks
-
-* [https://github.com/the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks): Which is the fastest web framework?
-* [TechEmpower Framework Benchmarks](https://www.techempower.com/benchmarks/)
-    * [Results Dashboard](https://tfb-status.techempower.com)
-    * [GitHub repository](https://github.com/TechEmpower/FrameworkBenchmarks)
-* [Swoole performance tests and comparisons](https://github.com/kenashkov/swoole-performance-tests): Performance tests of swoole against other PHP application server setups.
+* [https://www.speedtest.net](https://www.speedtest.net): the global broadband speed test.
+* Network Dectection
+    * [Downdetector.com](https://downdetector.com): tells you when your favorite services are down or having problems.
+        * https://downdetector.com/status/github/
+        * https://downdetector.com/status/twitter/
+        * https://downdetector.com/status/gmail/
 
 # Docs and Manuals
 
@@ -38,3 +60,15 @@
 # Business
 
 * [Invoice Simple](https://app.invoicesimple.com) Free online tool to generate invoices.
+
+# 中文工具
+
+* [在线试用 Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/): 可以使用 Google 输入工具在网络中的任何位置轻松地输入所选的语言。
+* [中文转拼音](https://www.ifreesite.com/pinyin/)
+* [接码号](https://jiemahao.com)
+
+# Misc
+
+* Language Ranking:
+    * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+    * [PYPL: PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
