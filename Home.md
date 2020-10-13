@@ -34,3 +34,7 @@
 * diagramming
     * [diagrams.net](https://app.diagrams.net): diagrams.net is open source, online, desktop and container deployable diagramming software.
     * [Visual Paradigm](https://online.visual-paradigm.com): makes diagramming simple, with a powerful diagram editor, and a central workspace to access and share your work.
+
+# Business
+
+* [Invoice Simple](https://app.invoicesimple.com) Free online tool to generate invoices.
