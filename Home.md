@@ -57,6 +57,11 @@
     * [diagrams.net](https://app.diagrams.net): diagrams.net is open source, online, desktop and container deployable diagramming software.
     * [Visual Paradigm](https://online.visual-paradigm.com): makes diagramming simple, with a powerful diagram editor, and a central workspace to access and share your work.
 
+# Language Tools
+
+* [DeepL Translator](https://www.deepl.com/en/translator): a free neural machine translation service.
+* [Title Capitalization Tool](https://capitalizemytitle.com)
+
 # Business
 
 * [Invoice Simple](https://app.invoicesimple.com) Free online tool to generate invoices.
