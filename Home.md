@@ -45,6 +45,10 @@
 * [keep a changelog](https://keepachangelog.com): Don’t let your friends dump git logs into changelogs.
 * [tldr](https://tldr.sh): Simplified and community-driven man pages.
 
+# Self-Learning
+
+* [Learn X in Y minutes](https://learnxinyminutes.com)
+
 # Conference Speaking
 
 * [HelpMeAbstract.com](http://helpmeabstract.com): Get feedback from veteran speakers before you submit.
