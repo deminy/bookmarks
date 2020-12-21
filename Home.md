@@ -56,6 +56,7 @@
 ## Presentation Creation
 
 * [reveal.js](https://github.com/hakimel/reveal.js): A framework for easily creating beautiful presentations using HTML.
+    * [reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins): Plugins for reveal.js.
     * [reveal-code-focus](https://github.com/bnjmnt4n/reveal-code-focus): A Reveal.js plugin that allows focusing on specific lines of code blocks.
 * diagramming
     * [diagrams.net](https://app.diagrams.net): diagrams.net is open source, online, desktop and container deployable diagramming software.
