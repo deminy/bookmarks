@@ -64,6 +64,7 @@
 
 # Language Tools
 
+* [alex](https://alexjs.com): Catch insensitive, inconsiderate writing.
 * [DeepL Translator](https://www.deepl.com/en/translator): a free neural machine translation service.
 * [Title Capitalization Tool](https://capitalizemytitle.com)
 
