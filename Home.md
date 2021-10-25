@@ -42,6 +42,7 @@
 
 # Docs and Manuals
 
+* [explainshell.com](https://explainshell.com): Write down a command-line to see the help text that matches each argument.
 * [keep a changelog](https://keepachangelog.com): Don’t let your friends dump git logs into changelogs.
 * [tldr](https://tldr.sh): Simplified and community-driven man pages.
 
