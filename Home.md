@@ -44,6 +44,7 @@
 
 * [explainshell.com](https://explainshell.com): Write down a command-line to see the help text that matches each argument.
 * [keep a changelog](https://keepachangelog.com): Don’t let your friends dump git logs into changelogs.
+* [Read the Docs](https://readthedocs.org/): Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
 * [tldr](https://tldr.sh): Simplified and community-driven man pages.
 
 # Self-Learning
