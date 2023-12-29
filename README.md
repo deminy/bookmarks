@@ -46,6 +46,8 @@
 * [keep a changelog](https://keepachangelog.com): Don’t let your friends dump git logs into changelogs.
 * [Read the Docs](https://readthedocs.org/): Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you.
 * [tldr](https://tldr.sh): Simplified and community-driven man pages.
+* PDF
+    * [Stirling-PDF]: Locally hosted web application that allows you to perform various operations on PDF files.
 
 # Self-Learning
 
@@ -86,3 +88,5 @@
 * Language Ranking:
     * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
     * [PYPL: PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+
+[Stirling-PDF]: https://github.com/Frooodle/Stirling-PDF
