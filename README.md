@@ -7,6 +7,8 @@
     * [Milliseconds since Unix Epoch](http://currentmillis.com/)
 * Editor
     * [Edit Pad](https://www.editpad.org): online text editor & wordpad for notes.
+* Encoding/Decoding
+    * [encoding/decoding]
 * HTTP
     * [httpbin.org](http://httpbin.org): A simple HTTP Request & Response Service.
     * [Web Sniffer](http://web-sniffer.net)
@@ -94,3 +96,4 @@
 [Stirling-PDF]: https://github.com/Frooodle/Stirling-PDF
 [中文转拼音]: https://www.ifreesite.com/pinyin/
 [汉字拼音在线转换]: https://www.qqxiuzi.cn/zh/pinyin/
+[encoding/decoding]: https://dencode.com/en/string
